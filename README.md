@@ -1,2 +1,2 @@
 # weeklyplan
-weekplan program written by me
+weeklyplan program written by me
